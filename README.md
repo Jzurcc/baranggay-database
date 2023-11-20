@@ -12,3 +12,10 @@ In partial fulfillment of the requirements for the subject National Service Trai
 - Botolan, Mharc Jhermie
 - Mangili, Joemil
 - Bautista, Azailu Jendrick
+
+# Frontend To Do List
+1. Ano
+
+# Backend To Do List
+1. Di 'ko alam
+
